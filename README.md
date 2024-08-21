@@ -1,16 +1,9 @@
 # movies_app
 
-A new Flutter project.
+A Flutter project which shows the movies listing. You can add a new movie giving a Title and Description and save it. The movies are stored in the local storage of the App. You can also mark your favourtie movies.
+
+All the Unit Tests and Widgets Tests are also included.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run Flutter pub get to add all the packages used in the App.
